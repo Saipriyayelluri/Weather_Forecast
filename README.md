@@ -16,6 +16,6 @@ STEPS INVOLVED: DEFAULT FILENAME > ASK THE USER INPUT > ENTERING THE CITY NAME >
  And each person done formatting for each different websites used(3 websites) and returning the data to text format file
  
 Weather data will be printed from 3 different websites in different formats and by the website name overit.
-we have commented the code  FOR GO_WEATHER website as it is changing so we have commented it in our maincode.py file so we can remove as per its timings the 
+we have commented the code  FOR GO_WEATHER website as it is changing so we have done it in our maincode.py file so we can remove as per its timings the 
 websites is working at only sometimes for the reason we have commented . 
 
