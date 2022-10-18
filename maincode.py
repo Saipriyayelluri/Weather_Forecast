@@ -1,5 +1,5 @@
 #Importing modules
-from format import print_weather
+from web dataformat1 import print_weather
 from api import weather_forecast,weather_data,weather_prediction
 import os
 from web dataformat2 import weather
