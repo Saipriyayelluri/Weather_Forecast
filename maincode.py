@@ -2,8 +2,8 @@
 from format import print_weather
 from api import weather_forecast,weather_data,weather_prediction
 import os
-from format2 import weather
-from format3 import product
+from web dataformat2 import weather
+from web dataformat3 import product
 
 #Defining an app function
 #THIS PART IS DONE BY DEVICHARAN
