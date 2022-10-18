@@ -10,7 +10,7 @@ STEPS INVOLVED: DEFAULT FILENAME > ASK THE USER INPUT > ENTERING THE CITY NAME >
  Each website has a different  data formattings done by each individual in  group
  
  WORKED INTO :
- MAINFUNCTION FILE:SAIPRIYA(Iterating the program and appending the data over it , printing the web info and Integrating all the files)
+ MAIN FILE:SAIPRIYA(Iterating the program and appending the data over it , printing the web info and Integrating all the files)
  MAINCODE FILE:DEVICHARAN (Fetching the web data and returning the data into text format file)
  API FILE:RISHI(Generating the apikeys and returning into Json format file)
  And each person done formatting for each different websites used(3 websites) and returning the data to text format file
